@@ -1,5 +1,5 @@
 # Discord-News-Bot
-A bot that posts news to a Discord channel
+A bot that posts news articles to a Discord channel
 
 The bot gets a list of the latest news articles from google news and randomly selects 3 articles to send through to you discord channel via webhook
 
