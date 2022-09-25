@@ -11,7 +11,7 @@ url = "https://google-news.p.rapidapi.com/v1/source_search"
 
 # For news topics and options visit:
 # https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/google-news
-querystring = {"source":"techcrunch.com","lang":"en"} #,"country":"AU"
+querystring = {"source":"techcrunch.com","lang":"en", "when":"1d"} #,"country":"AU"
 
 # Need to get API-key
 headers = {
